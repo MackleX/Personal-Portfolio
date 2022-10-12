@@ -1,0 +1,9 @@
+=> integrate jest with husky.
+=> intergrating a simple CI.
+=> having a look to the CD approach.
+    => no kubernetes needed for now.
+    => no complicated architecture, for now i will simply work on the front-end.
+    => i should make sure that i use mockuped data instead of hard coded data.
+    => And i should be sure to have fun all along the project.
+    => A notion integration would be a cool thing to do.
+=> start the devlopment.
